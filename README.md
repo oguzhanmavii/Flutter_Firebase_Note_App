@@ -9,4 +9,5 @@ Menu View on Home Page<br>
 ![home_page](https://user-images.githubusercontent.com/77650437/166455036-98aaa90b-cdfa-4d6d-b8b3-de8094355004.PNG)<br> 
 Createing Realtime database with Task  Creation Process<br> 
 ![create_task](https://user-images.githubusercontent.com/77650437/166455181-a2a3a535-afeb-4264-a55e-d236d8dcb35b.PNG)<br> 
-Profile Page with Profile Avatar Change![profile_page](https://user-images.githubusercontent.com/77650437/166455290-384f8eb9-791c-487d-8e89-4e6f16840269.PNG)<br> 
+Profile Page with Profile Avatar Change<br>
+![profile_page](https://user-images.githubusercontent.com/77650437/166455290-384f8eb9-791c-487d-8e89-4e6f16840269.PNG)
